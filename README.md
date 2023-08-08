@@ -1,4 +1,4 @@
-# EDA_Zomato
+# Exploratory data analysis of Zomato food delivery app
 Exploratory data analysis of Zomato food delivery app
 
 ## Описание датасета

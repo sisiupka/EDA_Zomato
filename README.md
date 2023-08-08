@@ -1,5 +1,4 @@
 # Exploratory data analysis of Zomato food delivery app
-Exploratory data analysis of Zomato food delivery app
 
 ## Описание датасета
 - Датасет: https://www.kaggle.com/datasets/anas123siddiqui/zomato-database?resource=download&select=restaurant.csv
